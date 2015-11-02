@@ -1,4 +1,4 @@
-ProjectNet - Learning Better Word Embedding by Asymmetric Low-Rank Projection of Knowledge Graph
+#ProjectNet - Learning Better Word Embedding by Asymmetric Low-Rank Projection of Knowledge Graph
 
 ==========
 
