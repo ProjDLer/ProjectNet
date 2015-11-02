@@ -16,4 +16,4 @@ The training/testing knowledge graph dataset is stored in ./dataset. The test se
 
 Reference
 ----------
-[1] Tian F, Gao B, Chen E, et al. Learning Better Word Embedding by Asymmetric Low-Rank Projection of Knowledge Graph[J]. arXiv preprint arXiv:1505.04891, 2015.
+[1] Learning Better Word Embedding by Asymmetric Low-Rank Projection of Knowledge Graph[J]. submitted to JCST.
